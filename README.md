@@ -1,6 +1,6 @@
 ## About
 
-This repository is meant to reproduce the tensile curves and infrared imaging data obtained in the paper:
+This repository contains CSV data with the results from tensile tests and temperature measurements reported in the following paper:
 
 > **Wire-arc directed energy deposition of Inconel 718: Effects of heat input and build interruptions on mechanical performance** \
 R.M. Kindermann, M.J. Roy, R. Morana, J.A. Francis, P.B. Prangnel \
